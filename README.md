@@ -2,10 +2,10 @@
 
 ### Folder Structure
 
-| Name          | Description                                          |
-| ------------- | ---------------------------------------------------- |
-| analysis      | Contains notebook for exploratory data analysis      |
-| data          | Contains clean datasets                              |
-| modeling      | Contains notebooks for different modeling approaches |
-| preprocessing | Contains notebook for preprocessing steps            |
-| utils         | Contains utility scripts for common operations       |
+| Name          | Description                                 |
+| ------------- | ------------------------------------------- |
+| analysis      | Notebook for exploratory data analysis      |
+| data          | Datasets from preprocessing steps           |
+| modeling      | Notebooks for different modeling approaches |
+| preprocessing | Notebooks for preprocessing steps           |
+| utils         | Utility scripts for common operations       |
