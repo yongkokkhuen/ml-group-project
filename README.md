@@ -8,4 +8,3 @@
 | data          | Datasets from preprocessing steps           |
 | modeling      | Notebooks for different modeling approaches |
 | preprocessing | Notebooks for preprocessing steps           |
-| utils         | Utility scripts for common operations       |
