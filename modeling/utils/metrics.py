@@ -1,15 +1,14 @@
-from asyncio.windows_events import NULL
 import pickle
 import matplotlib.pyplot as plt
 from sklearn.metrics import classification_report, ConfusionMatrixDisplay
 
-y_test = NULL
+y_test = None
 
 
 def evaluate(y_pred):
     global y_test
 
-    if y_test == NULL:
+    if y_test is None:
         y_test = load_test_labels()
 
     print("Classification Report:")
